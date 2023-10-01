@@ -1,0 +1,9 @@
+int main( )
+{
+    bool a;   
+    char d; 
+    int b=4,c,d,e=76;  
+    char a,b,c,d="f",h;
+    bool a,b,c,d=true;
+    return -1; 
+}
