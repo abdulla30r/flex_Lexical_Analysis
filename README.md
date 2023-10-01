@@ -21,6 +21,9 @@ cd your-project
 4. Run the c_program_recognizer.l file
 ```bash
 lex c_program_recognizer.l
-gcc yy.lex.c
+gcc lex.yy.c
+```
+5. Then run the executable file. For example in linux,
+```bash
 ./a.out
 ```
