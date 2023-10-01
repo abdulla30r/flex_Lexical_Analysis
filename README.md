@@ -14,7 +14,7 @@ git clone https://github.com/abdulla30r/flex_Lexical_Analysis.git
 
 2. Change into the project directory
 ```bash
-cd your-project
+cd flex_Lexical_Analysis
 ```
 
 3. Write c code in input.txt
