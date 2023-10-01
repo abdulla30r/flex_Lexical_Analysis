@@ -17,7 +17,10 @@ git clone https://github.com/abdulla30r/flex_Lexical_Analysis.git
 cd your-project
 ```
 
-
-input c code in input.txt
-then run the c_program_recognizer.l file using
+3. Write c code in input.txt
+4. Run the c_program_recognizer.l file
+```bash
 lex c_program_recognizer.l
+gcc yy.lex.c
+./a.out
+```
